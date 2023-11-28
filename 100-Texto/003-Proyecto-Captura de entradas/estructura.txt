@@ -1,0 +1,6 @@
+entrada
+etiqueta
+boton
+boton
+etiqueta
+entrada
