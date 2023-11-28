@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interfaz>
+    <campo tipo="entrada" texto=""></campo>
+    <campo tipo="etiqueta" texto="Primera etiqueta"></campo>
+    <campo tipo="boton" texto="Primer boton"></campo>
+    <campo tipo="etiqueta" texto="Segunda etiqueta"></campo>
+    <campo tipo="boton" texto="Segundo boton"></campo>
+</interfaz>
