@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interfaz>
+    <barramenu>
+        <menu texto="archivo">
+            <menuitem texto="nuevo"></menuitem>
+            <menuitem texto="abrir"></menuitem>
+            <menuitem texto="guardar"></menuitem>
+            <menuitem texto="salir"></menuitem>
+        </menu> 
+        <menu texto="ayuda">
+            <menuitem texto="ayuda"></menuitem>
+            <menuitem texto="documentacion"></menuitem>
+            <menuitem texto="acerca"></menuitem>
+        </menu>
+    </barramenu>
+    <ventana>
+        <campo tipo="label" texto="Hola!" formato="negrita"></campo>
+        <campo tipo="label" texto="Bienvenido al convertidor de temperatura"></campo>
+        <campo tipo="separador"></campo>
+        <campo tipo="label" texto="Introduce la temperatura en grados Celsius (C):" alineacion="izquierda"></campo>
+        <campo tipo="entrada" alineacion="izquierda"></campo>
+        <campo tipo="boton" texto="Convertir"></campo>
+        <campo tipo="separador"></campo>
+
+    </ventana>
+</interfaz>
